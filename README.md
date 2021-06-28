@@ -3,3 +3,7 @@ Playing around with the Matplotlib - the plotting and graphic library in Python.
 
 Line Chart:
 <img src="https://github.com/stevoslates/Playing-with-Matplotlib/blob/main/LineChart.png" alt="alt text" width="750" height="500">
+
+
+Histogram:
+<img src="https://github.com/stevoslates/Playing-with-Matplotlib/blob/main/Histogram.png" alt="alt text" width="750" height="500">
