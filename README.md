@@ -2,4 +2,4 @@
 Playing around with the Matplotlib - the plotting and graphic library in Python. Starting out with making different types of graphs with different customisations as I look more into data analysis libraries in Python.
 
 Line Chart:
-<img src="https://github.com/stevoslates/Playing-with-Matplotlib/blob/main/photo1.png" alt="alt text" width="250" height="500">
+<img src="https://github.com/stevoslates/Playing-with-Matplotlib/blob/main/linechart.png" alt="alt text" width="250" height="500">
